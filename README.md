@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Real Estate Development | [Your Company Name]</title>
+  <title>Real Estate Development | [Fortune Real Estate development]</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
@@ -12,7 +12,7 @@
   <!-- Header -->
   <header>
     <div class="container">
-      <h1>[Your Company Name]</h1>
+      <h1>[Fortune Real Estate development]</h1>
       <nav>
         <ul>
           <li><a href="#home">Home</a></li>
@@ -38,7 +38,7 @@
   <section id="about" class="about">
     <div class="container">
       <h2>About Us</h2>
-      <p>With [X] years of experience, we specialize in transforming raw land and existing properties into thriving, profitable developments. Our team is dedicated to delivering sustainable and innovative solutions tailored to your needs.</p>
+      <p>With [5] years of experience, we specialize in transforming raw land and existing properties into thriving, profitable developments. Our team is dedicated to delivering sustainable and innovative solutions tailored to your needs.</p>
     </div>
   </section>
 
